@@ -1,0 +1,2 @@
+function adicionar (a + b)
+    
