@@ -128,7 +128,7 @@ const pedido = (comida, tempo) => {
             console.log('Bom apetite!');
             break;
 
-        default:
+        case false:
 
             console.log('Prato Inexistente');
     }
