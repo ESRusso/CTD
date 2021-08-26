@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+Decol:wght@500&display=swap');
+
+.titulo-principal {
+
+    color: darkgreen;
+    font-family: 'Kaisei Decol', serif;
+}
+
+.conteudo-principal {
+
+    background-image: url('https://cdn.panrotas.com.br/portal-panrotas-statics/media-files-cache/303237/27fe39c4037fc9784a7d464e129f19ab34natalluz3618/0,179,2560,1528/1206,720,0.17/0/default.jpg');
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
