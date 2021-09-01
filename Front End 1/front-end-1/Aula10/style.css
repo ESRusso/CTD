@@ -1,0 +1,12 @@
+.start {
+
+    background-image: url('https://marcas-logos.net/wp-content/uploads/2020/01/Apple-Logo-768x432.png');
+    background-repeat: no-repeat;
+    width: 1280px;
+    height: 720px;
+    box-sizing: border-box;
+    border: 7px ridge #d8d8e4;
+    border-radius: 30px;
+    text-align: center;
+    padding: 29px 0;
+}
