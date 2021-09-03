@@ -1,0 +1,40 @@
+body {
+
+    height: 5000px;
+}
+
+.main-menu {
+
+        width: 100%;
+        background-color: cadetblue;
+        z-index: 50;
+        top: 0;
+        position: sticky;
+        padding: 20px;
+        text-align: center;
+        text-decoration: none;
+
+}
+.main-menu img {
+
+    width: 80px;
+    background-color: cadetblue;
+    position: relative;
+    top: 0px;
+    right: 620px;
+}
+
+.modeloS .modelo3 .CyberTruck img {
+
+    width: 300px;
+
+}
+
+.whatsapp {
+
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    width: 70px;
+    height: 70px;
+}
