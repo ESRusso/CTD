@@ -1,0 +1,12 @@
+img {
+  width: 400px;
+}
+
+input select textarea {
+  border-radius: 30px;
+}
+
+body {
+  background-color: lightgrey;
+  text-align: center;
+}
