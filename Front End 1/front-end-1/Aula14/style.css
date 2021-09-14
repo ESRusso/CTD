@@ -1,0 +1,15 @@
+cinnamon {
+  scrollbar-face-color: sienna;
+}
+
+input select label fieldset {
+  border-radius: 50px;
+}
+
+img {
+  width: 450px;
+}
+
+h1 {
+  background-color: sienna;
+}
