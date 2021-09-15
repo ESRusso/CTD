@@ -1,0 +1,43 @@
+button {
+  background-color: blueviolet;
+  border-radius: 12px;
+  border-style: dotted;
+}
+
+button:hover {
+  background-color: chartreuse;
+  transition: 0.5s;
+}
+
+p::first-letter {
+  color: darkred;
+}
+
+h1::first-letter {
+  color: green;
+}
+
+h2 {
+  color: deepskyblue;
+}
+
+input:checked {
+  border: 5px solid greenyellow;
+}
+
+input:focus {
+  color: mediumblue;
+}
+
+ul li:nth-child(3n) {
+  color: tomato;
+}
+
+img {
+  width: 400px;
+  height: 200px;
+}
+
+input:disabled {
+  background-color: grey;
+}
